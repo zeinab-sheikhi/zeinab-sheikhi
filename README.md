@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Zeinab Sheikhi</h1>
 <h3 align="center">Computational Linguistics Master's Student at Université Paris Cité</h3>
 
+- 🔭 I’m currently working on **Music Generation with LLMs**
+
+- 🌱 I’m currently learning **pytorch**
+
+- 💬 Ask me about **flutter**
+
 - 📫 How to reach me **zeinab.sheykhie@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
