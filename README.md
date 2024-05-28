@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Music Generation with LLMs**
 
-- 🌱 I’m currently learning **pytorch**
+- 🌱 I’m currently learning **Docker**
 
 - 💬 Ask me about **flutter**
 
