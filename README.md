@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zeinab Sheikhi</h1>
 <h3 align="center">Computational Linguistics Master's Student at Université Paris Cité</h3>
+<h3 align="center">Flutter Developer</h3>
 
 - 🔭 I’m currently working on **Music Generation with LLMs**
 
