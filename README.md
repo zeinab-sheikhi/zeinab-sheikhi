@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeinab Sheikhi</h1>
-<h3 align="center">Computational Linguistics Master's Student at Université Paris Cité and Flutter Developer</h3>
-
-- 🌱 I’m currently learning **Docker**
-
-- 💬 Ask me about **Flutter, Mobile Application Development**
+<h3 align="center">Computational Linguistics Master's Student at Université Paris Cité</h3>
 
 - 📫 How to reach me **zeinab.sheykhie@gmail.com**
 
