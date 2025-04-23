@@ -4,9 +4,8 @@
 - 🔬 Interning at [Owkin](https://owkin.com/), where I’m working on **automating ML workflows** using Airflow, Docker, and SageMaker.
 - 🤖 Learning to build **LLM-powered agents** that automate complex research tasks—especially in biology and bioinformatics.
 - 🧬 Fascinated by how biologists compare protein structures to study diseases, and working on tools to automate this manual process using AlphaFold and MCP.
-- 💡 Passionate about the intersection of **software engineering** and **machine learning**.
 - 📱 Previously developed a large-scale Flutter-based **mobile banking app** with over 1M users.
-- 😄 Always curious, always building.
+- 😄 Passionate about the intersection of **software engineering** and **machine learning**.
 
 ---
 
