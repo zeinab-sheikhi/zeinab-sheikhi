@@ -5,7 +5,6 @@
 - 🤖 Learning to build **LLM-powered agents** that automate complex research tasks—especially in biology and bioinformatics.
 - 🧬 Fascinated by how biologists compare protein structures to study diseases, and working on tools to automate this manual process using AlphaFold and MCP.
 - 📱 Previously developed a large-scale Flutter-based **mobile banking app** with over 1M users.
-- 😄 Passionate about the intersection of **software engineering** and **machine learning**.
 
 ---
 
