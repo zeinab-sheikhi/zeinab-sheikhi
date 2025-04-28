@@ -22,8 +22,6 @@ Designing reproducible ML workflows for training and deployment using Docker, Ai
 
 ### 🛠️ Skills
 
-| Category                         | Technologies                            |
-|----------------------------------|----------------------------------------|
 | Machine Learning & Deep Learning | PyTorch, scikit-learn                  |
 | Programming Languages            | Python, Java, Dart                     |
 | Cloud & CI/CD                    | AWS, Docker                            |
