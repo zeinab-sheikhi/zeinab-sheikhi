@@ -2,7 +2,7 @@
 
 - 🎓 Master's student in **Computational Linguistics** at [Université Paris Cité](https://u-paris.fr/).
 - ⚙️ ML Engineering Intern at [Owkin](https://owkin.com/), designing reproducible **ML workflows** for training and deployment using Docker, Airflow, AWS SageMaker.
-- 🤖 Exploring and building **LLM-powered agents** with MCP for automating research tasks, in **biology**.
+- 🤖 Exploring and building **LLM-powered agents** with MCP for automating research tasks in **biology**.
 - 📚 Passionate about Machine Learning, Software Development, and Building Agentic Systems.
 
 ---
