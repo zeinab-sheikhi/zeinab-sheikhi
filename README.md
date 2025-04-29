@@ -11,13 +11,12 @@
 
 | | |
 |:---|:---|
-| Machine Learning & Deep Learning | PyTorch, scikit-learn |
 | Programming Languages | Python, Java, Dart |
-| Cloud & CI/CD | AWS, Docker |
+| Machine Learning & Deep Learning | PyTorch, scikit-learn |
 | Data Analysis & Visualization | Pandas, Seaborn |
-| Backend Development | Flask, MCP |
+| Cloud & CI/CD | AWS, Docker |
+| Backend Development | FastAPI, Flask, MCP |
 | Mobile Development | Flutter |
-
 
 ---
 
