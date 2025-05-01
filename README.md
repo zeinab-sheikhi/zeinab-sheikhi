@@ -25,5 +25,5 @@
 - 🏦 **HamrahShahrPlus Mobile Banking App** (CityDi)  
 Developed a Flutter-based mobile app with 1.5M+ users across Android, iOS, and web.
   
-- 🚚 **Vehicle Overload Detection System**
+- 🚚 **Vehicle Overload Detection System**     
 Built backend with **Flask** and **MongoDB** and developed a Windows desktop application with **Flutter**.
