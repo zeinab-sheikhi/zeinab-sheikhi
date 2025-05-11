@@ -16,7 +16,7 @@
 | Data Analysis & Visualization | Pandas, Seaborn |
 | Cloud & CI/CD | AWS, Docker |
 | Backend Development | FastAPI, Flask, MCP |
-| Mobile Development | Flutter |
+| Frontend Development | Flutter |
 
 ---
 
