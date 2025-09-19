@@ -1,9 +1,8 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=94D0FF&lines=Hi+there+%F0%9F%91%8B+I'm+Zeinab!)](https://git.io/typing-svg)
 
 - 🎓 Master's degree in **Computational Linguistics** at [Université Paris Cité](https://u-paris.fr/).
-- ⚙️ ML Engineer Intern at [Owkin](https://owkin.com/), designing reproducible **ML workflows** for training and deployment using Docker, Airflow, AWS SageMaker.
 - 🤖 Exploring and building **LLM-powered agents** with MCP for automating research tasks in **biology**.
-- 📚 Passionate about Machine Learning, Software Development, and Building Agentic Systems.
+- 📚 Passionate about Machine Learning and Biology.
 
 ---
 
