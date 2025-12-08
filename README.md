@@ -25,7 +25,6 @@ My recent work includes:
 
 ### 🚀 Past Work
 - 🧬 **Archon**
-
 A CNN-based model for detecting genomic structural variants from short-read sequencing data.
 
 - 🏦 **HamrahShahrPlus Mobile Banking App** (CityDi)  
