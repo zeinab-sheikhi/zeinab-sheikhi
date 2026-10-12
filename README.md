@@ -31,7 +31,7 @@ My recent work includes:
 ### 🚀 Past Work
 - 🌱 **BOTANIC1 Fine-Tuning for ATAC-seq Prediction**  
 Fine-tuned BOTANIC1, a genomic language model for plants, to predict chromatin accessibility (ATAC-seq). Trained ChromBPNet on the same species as the baseline. The fine-tuned model outperformed ChromBPNet.  
-📄 [Paper](PAPER_LINK) · 🤗 [Model](MODEL_LINK)
+📄 [Paper](https://www.biorxiv.org/content/10.64898/2026.09.04.749355v1) · 🤗 [Model](https://huggingface.co/collections/living-models/botanic1)
 
 - 🧬 **Archon**  
 A CNN-based model for detecting genomic structural variants from short-read sequencing data. Improved F1-score from 0.31 to 0.66 over the best baseline method.
