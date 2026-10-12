@@ -1,8 +1,9 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=94D0FF&lines=Hi+there+%F0%9F%91%8B+I'm+Zeinab!)](https://git.io/typing-svg)
-I’m a Machine Learning Researcher in AI for Genomics, currently based in Paris, working at the intersection of
+I’m a Machine Learning Researcher in AI for Genomics working at the intersection of
 deep learning, biological data, and computational pipelines.
 
 My recent work includes:
+- Fine-tuning BOTANIC1 (a genomic language model for plants) for ATAC-seq prediction
 - Building deep learning models for short-read structural variant (SV) calling
 - Developing scalable ML infrastructure (cloud, orchestration, CI/CD)
 - Experimenting with LLM-powered scientific agents using MCP
