@@ -28,7 +28,7 @@ My recent work includes:
 
 ---
 
-### 🚀 Past Work
+### 🚀 Projects
 - 🌱 **BOTANIC1:
 Fine-tuned BOTANIC1, a genomic language model for plants, to predict chromatin accessibility (ATAC-seq). Trained ChromBPNet on the same species as the baseline. The fine-tuned model outperformed ChromBPNet.  
 📄 [Paper](https://www.biorxiv.org/content/10.64898/2026.09.04.749355v1) · 🤗 [Model](https://huggingface.co/collections/living-models/botanic1)
