@@ -6,7 +6,6 @@ deep learning, biological data, and computational pipelines.
 ### 🛠️ Skills
 
 | | |
-|:---|:---|
 | Programming Languages | Python, Java, Dart |
 | Machine Learning & Deep Learning | PyTorch, scikit-learn, Hugging Face Transformers, CNNs, Transformers |
 | Genomic Models | BOTANIC1, ChromBPNet |
