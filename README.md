@@ -2,13 +2,6 @@
 I’m a Machine Learning Researcher in AI for Genomics working at the intersection of
 deep learning, biological data, and computational pipelines.
 
-My recent work includes:
-- Fine-tuning BOTANIC1 (a genomic language model for plants) for ATAC-seq prediction
-- Building deep learning models for short-read structural variant (SV) calling
-- Developing scalable ML infrastructure (cloud, orchestration, CI/CD)
-- Experimenting with LLM-powered scientific agents using MCP
-- Applying ML to real-world biological and biomedical datasets
-
 ---
 
 ### 🛠️ Skills
