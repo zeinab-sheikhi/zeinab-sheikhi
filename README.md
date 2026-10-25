@@ -1,6 +1,5 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=94D0FF&lines=Hi+there+%F0%9F%91%8B+I'm+Zeinab!)](https://git.io/typing-svg)
-I’m a Machine Learning Researcher in AI for Genomics working at the intersection of
-deep learning, biological data, and computational pipelines.
+I’m a Machine Learning Researcher in AI for Biology.
 
 
 ### 🛠️ Skills
