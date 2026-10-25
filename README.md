@@ -2,7 +2,6 @@
 I’m a Machine Learning Researcher in AI for Genomics working at the intersection of
 deep learning, biological data, and computational pipelines.
 
----
 
 ### 🛠️ Skills
 
@@ -19,7 +18,6 @@ deep learning, biological data, and computational pipelines.
 | Databases | MongoDB, Redis, Qdrant |
 | Frontend Development | Flutter |
 
----
 
 ### 🚀 Projects
 - 🌱 **BOTANIC1**:
