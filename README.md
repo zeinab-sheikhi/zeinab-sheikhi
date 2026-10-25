@@ -5,16 +5,14 @@ deep learning, biological data, and computational pipelines.
 
 ### 🛠️ Skills
 
-| | |
+| Category | Technologies |
+| --- | --- |
 | Programming Languages | Python, Java, Dart |
 | Machine Learning & Deep Learning | PyTorch, scikit-learn, Hugging Face Transformers, CNNs, Transformers |
-| Genomic Models | BOTANIC1, ChromBPNet |
-| Generative & Agentic AI | MCP, smolagents, LangChain, RAG, vLLM, Prompt Engineering |
+| Generative & Agentic AI | MCP, smolagents, LangChain, RAG, vLLM |
 | Data Analysis & Visualization | Pandas, NumPy, Seaborn |
 | MLOps & Cloud | AWS (S3, SageMaker, ECR, ECS), Docker, Apache Airflow, GitHub Actions, Terraform |
-| Testing & Observability | pytest, LangFuse |
 | Backend Development | FastAPI, Flask |
-| Databases | MongoDB, Redis, Qdrant |
 | Frontend Development | Flutter |
 
 
