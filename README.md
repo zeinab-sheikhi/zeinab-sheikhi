@@ -8,7 +8,7 @@ I’m a Machine Learning Researcher in AI for Biology.
 | --- | --- |
 | Programming Languages | Python, Java, Dart |
 | Machine Learning & Deep Learning | PyTorch, scikit-learn, Hugging Face Transformers, CNNs, Transformers |
-| Generative & Agentic AI | MCP, smolagents, LangChain, RAG, vLLM |
+| Generative & Agentic AI | MCP, smolagents, RAG, vLLM |
 | Data Analysis & Visualization | Pandas, NumPy, Seaborn |
 | MLOps & Cloud | AWS (S3, SageMaker, ECR, ECS), Docker, Apache Airflow, GitHub Actions, Terraform |
 | Backend Development | FastAPI, Flask |
